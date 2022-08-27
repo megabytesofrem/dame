@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"rem"
+	],
+	"copyright": "Copyright © 2022, rem",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "dame"
+}
